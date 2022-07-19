@@ -1,0 +1,31 @@
+/*---font family Dancing_Script*/
+@font-face {
+    font-family: DancingScript;
+    src: url('../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf');
+}
+/*---font family Dancing_Script*/
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+/*---font family AmaticSC-Regular*/
+@font-face {
+    font-family: AmaticSC;
+    src: url('../fonts/Amatic_SC/AmaticSC-Regular.ttf');
+}
+
+/*---font family Lemonada*/
+@font-face {
+    font-family: Lemonada;
+    src: url('../fonts/Lemonada/Lemonada-VariableFont_wght.ttf');
+}
+/*---font family Lobster*/
+@font-face {
+    font-family: Lobster;
+    src: url('../fonts/Lobster/Lobster-Regular.ttf');
+}
+/*---font family Righteous*/
+@font-face {
+    font-family: Righteous;
+    src: url('../fonts/Righteous/Righteous-Regular.ttf');
+}
